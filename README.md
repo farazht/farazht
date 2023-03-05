@@ -19,6 +19,6 @@ I mainly code in Python, but enjoy creating interactive experiences with HTML/CS
 🪐 [Space Idle Game [WIP]](https://github.com/Jacob-Guglielmin/space-idle-game) - Web Game (Desktop Only) - *TypeScript, HTML/CSS* 
   - A boundless idle game based on space exploration, construction, and resource management. (w/ [@Jacob-Guglielmin](https://github.com/Jacob-Guglielmin/)).
 
-For any inquiries, feel free to contact me via [Email](tehranifaraz314@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faraz-hosseinian-tehrani-67b879239/).
+For any inquiries, feel free to contact me via [Email](mailto:tehranifaraz314@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faraz-hosseinian-tehrani-67b879239/).
 
 Cheers. And trust the natural recursion.
