@@ -2,7 +2,7 @@
 
 I'm Faraz, a BSc student at the University of British Columbia.
 
-Below are some of my projects, to save you the trouble of going through my repositories:
+I mainly code in Python, but enjoy creating interactive experiences with HTML/CSS/JS. Below are some of my projects, to save you the trouble of going through my repositories:
 
 - [elegant**chaos**](https://farazht.github.io/chaos/) - Web Application (Desktop Only) - *JavaScript, HTML/CSS* 
   - Web-based tool for visualizing chaotic mathematical systems. Complete with extensive customization options, import/export functionality, and thorough documentation. 
@@ -20,3 +20,5 @@ Below are some of my projects, to save you the trouble of going through my repos
   - A boundless idle game based on space exploration, construction, and resource management. (w/ [@Jacob-Guglielmin](https://github.com/Jacob-Guglielmin/)).
 
 For any inquiries, feel free to contact me via [Email](tehranifaraz314@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faraz-hosseinian-tehrani-67b879239/).
+
+Cheers. And trust the natural recursion.
