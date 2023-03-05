@@ -11,7 +11,7 @@ I mainly code in Python, but enjoy creating interactive experiences with HTML/CS
   - A totally serious and extremely accurate experiment to determine the Greatest Human Of All Time. Fully synchronised with a real-time Firebase database for ranking updates and user submissions. (w/ [@Jacob-Guglielmin](https://github.com/Jacob-Guglielmin/)).
 
 🍷 [Classifying red wine quality](https://github.com/farazht/dsci-100-2022w1-group-114/blob/main/Group%20Report.ipynb) - Project Report - *R, Jupyter* 
-  - Exploratory data project to determine whether the quality of red wine can accurately be predicted from its physical characteristics. Classified based on a k-NN algorithm and complete with discussion and visualizations.
+  - Exploratory data project to determine whether the quality of red wine can accurately be predicted from its physical characteristics. Classified based on a k-NN algorithm and complete with discussion and visualizations. (collaborators listed on report)
 
 🖌️ [SPEEDPAINTER](https://farazht.github.io/speedpainter/) - Web Game (Desktop Only) - *JavaScript, HTML/CSS, Firebase* 
   - A simple online game based on speed and memory. Features a real-time database to save best user times. 
@@ -21,4 +21,8 @@ I mainly code in Python, but enjoy creating interactive experiences with HTML/CS
 
 For any inquiries, feel free to contact me via [Email](mailto:tehranifaraz314@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faraz-hosseinian-tehrani-67b879239/).
 
-Cheers. And trust the natural recursion.
+&nbsp;
+
+Cheers. 
+
+And trust the natural recursion.
