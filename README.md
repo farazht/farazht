@@ -2,7 +2,7 @@
 
 I'm Faraz, a BSc student at the University of British Columbia.
 
-I mainly code in Python, but enjoy creating interactive experiences with HTML/CSS/JS. Below are some of my projects, to save you the trouble of going through my repositories:
+I mainly code in Python, but enjoy creating interactive experiences with HTML/CSS/JS. Below are some of my easily accessible projects, to save you the hassle of going through my repositories:
 
 🦋 [elegant**chaos**](https://farazht.github.io/chaos/) - Web Application (Desktop Only) - *JavaScript, HTML/CSS* 
   - Web-based tool for visualizing chaotic mathematical systems. Complete with extensive customization options, import/export functionality, and thorough documentation. 
