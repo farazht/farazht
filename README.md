@@ -1,9 +1,10 @@
 ### Hey there 👋
 
-I'm Faraz, a BSc student at the University of British Columbia.
+I'm Faraz, a BSc student at the University of British Columbia. I mainly code in Python, but enjoy creating interactive experiences with HTML/CSS/JS. Below are some of my easily accessible projects, to save you the hassle of going through my repositories:
 
-I mainly code in Python, but enjoy creating interactive experiences with HTML/CSS/JS. Below are some of my easily accessible projects, to save you the hassle of going through my repositories:
-
+<details>
+  <summary>Projects</summary>
+  
 🦋 [elegant**chaos**](https://farazht.github.io/chaos/) - Web Application (Desktop Only) - *JavaScript, HTML/CSS* 
   - Web-based tool for visualizing chaotic mathematical systems. Complete with extensive customization options, import/export functionality, and thorough documentation. 
 
@@ -19,10 +20,6 @@ I mainly code in Python, but enjoy creating interactive experiences with HTML/CS
 🪐 [Space Idle Game [WIP]](https://github.com/Jacob-Guglielmin/space-idle-game) - Web Game (Desktop Only) - *TypeScript, HTML/CSS* 
   - A boundless idle game based on space exploration, construction, and resource management. (w/ [@Jacob-Guglielmin](https://github.com/Jacob-Guglielmin/)).
 
+</details>
+  
 For any inquiries, feel free to contact me via [Email](mailto:tehranifaraz314@gmail.com) or [LinkedIn](https://www.linkedin.com/in/faraz-hosseinian-tehrani-67b879239/).
-
-&nbsp;
-
-Cheers. 
-
-And trust the natural recursion.
