@@ -1,24 +1,21 @@
 ### Hey there 👋
 
-I'm Faraz, a BSc student at the University of British Columbia. I mainly code in Python, but enjoy creating interactive experiences with HTML/CSS/JS. Below are some of my easily accessible projects, to save you the hassle of going through my repositories:
+I'm Faraz, a BSc student at the University of British Columbia. I mainly code in Python, but enjoy creating interactive experiences with HTML/CSS/JS. Below are some of my projects you'll find on here, to save you the hassle of going through my repositories:
 
 <details>
   <summary>Projects</summary>
   
 🦋 [elegant**chaos**](https://farazht.github.io/chaos/) - Web Application (Desktop Only) - *JavaScript, HTML/CSS* 
-  - Web-based tool for visualizing chaotic mathematical systems. Complete with extensive customization options, import/export functionality, and thorough documentation. 
+  - Web-based tool for visualizing chaotic mathematical systems, with high customization and import/export functionality.
 
 🐐 [Who's the GOAT?](https://whos-the-goat.web.app/) - Website (All Devices) - *JavaScript, HTML/CSS, Firebase* 
-  - A totally serious and extremely accurate experiment to determine the Greatest Human Of All Time. Fully synchronised with a real-time Firebase database for ranking updates and user submissions. (w/ [@Jacob-Guglielmin](https://github.com/Jacob-Guglielmin/)).
+  - An *extremely accurate* experiment to determine the Greatest Human Of All Time. Synchronized with a real-time database for leaderboard and submissions. (w/ [@Jacob-Guglielmin](https://github.com/Jacob-Guglielmin/)).
 
-🍷 [Classifying red wine quality](https://github.com/farazht/dsci-100-2022w1-group-114/blob/main/Group%20Report.ipynb) - Project Report - *R, Jupyter* 
-  - Exploratory data project to determine whether the quality of red wine can accurately be predicted from its physical characteristics. Classified based on a k-NN algorithm and complete with discussion and visualizations. (collaborators listed on report)
+🔤 [Word Game](https://github.com/farazht/discord-word-game) - Discord Bot (All Platforms) - *Python, discord.py* 
+  - Discord bot hosting a fast turn-based word game with multiple modes.
 
 🖌️ [SPEEDPAINTER](https://farazht.github.io/speedpainter/) - Web Game (Desktop Only) - *JavaScript, HTML/CSS, Firebase* 
   - A simple online game based on speed and memory. Features a real-time database to save best user times. 
-
-🪐 [Space Idle Game [WIP]](https://github.com/Jacob-Guglielmin/space-idle-game) - Web Game (Desktop Only) - *TypeScript, HTML/CSS* 
-  - A boundless idle game based on space exploration, construction, and resource management. (w/ [@Jacob-Guglielmin](https://github.com/Jacob-Guglielmin/)).
 
 </details>
   
